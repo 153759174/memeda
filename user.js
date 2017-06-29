@@ -2,3 +2,5 @@
 var user = {
 	username : '张三'
 };
+// 输出变量user
+console.log(user);
