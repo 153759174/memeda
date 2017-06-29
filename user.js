@@ -2,3 +2,5 @@
 var user = {
 	username : '张三'
 };
+// 哈哈
+// 啊哈哈
